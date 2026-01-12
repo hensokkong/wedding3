@@ -6,6 +6,5 @@ export const guestlistimg ={
         
      "Chum_Chan_Phea_Run" : "img/list_URL/Chum_Chan_Phea_Run.jpg",
      "Li_Chan-Ri_Na" : "img/list_URL/Li_Chan-Ri_Na.jpg",
-         
-
+     "Say_Ra_Vy" : "img/list_URL/Say_Ra_Vy.jpg",  
     };
